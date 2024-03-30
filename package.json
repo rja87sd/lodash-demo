@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.16",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "rja87sd-myfirstcalculator": "^1.0.1"
   }
 }
